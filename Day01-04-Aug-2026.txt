@@ -1,0 +1,11 @@
+Hello Neeraj Bhaiya
+Today, I have Learned and practice about some Linux Command:
+1. chmod command
+2. chown command
+3. chgrp command
+4. umask command
+5. tar command
+6. awk command
+7. sed command
+Also I have learned about the Jump Server and Bastion Host.
+
