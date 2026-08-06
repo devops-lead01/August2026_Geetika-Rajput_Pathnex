@@ -1,0 +1,27 @@
+Hello Neeraj Bhaiya
+Today, I have learned about Git and git commands.
+
+Git: Git is a distributed version control system that manage and control changes of file or code in a project. It i maily used insoftware development to maintain the histroy of changes and collaborate with others.
+
+Key Concept in Git:
+1. Repositry (Repo) - It is a directory where the project file and their revision history are stored.
+2. Commit - Commit is a snapshot of chnages made to a file.
+3. Branch - Branch is a seperate line of development.
+4. Merge - Integrating chnages from one branch into another.
+5. Clone - Creating a copy of a repository.
+6. Push - Uploading local commits to a github repo.
+7. Pull - Fetching and merging changes from the github repo to local copy.
+
+Git commands:
+1. git config
+2. git init
+3. git status
+4. git add
+5. git commit
+6. git log
+7. git branch
+8. git checkout
+9. git merge
+10. git remote add
+11. git push
+12. git pull
