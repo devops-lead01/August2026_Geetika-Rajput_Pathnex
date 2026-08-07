@@ -1,0 +1,23 @@
+Hello Neeraj Bhaiya,
+Today, I learned about AWS and it's services.
+
+AWS (Amazon Web Services): AWS is a cloud computing platform provided by Amazon that offers IT resources like servers, storage and databases over the internet on a pay as - you - go basis.
+
+Now, cloud services are mainly divided into three types:
+1. IAAS- Infrastructure as a service (ex-Amazon EC2)
+2. PAAS- Platform as a service (ex- Google app Engine, AWS Elastic Beanstalk etc)
+3. SAAS- Software as a service (ex- gmail, FB etc)
+
+AWS, services are core building blocks used to run and secure applications in the cloud:
+1. EC2 - Elastic Compute Cloud
+2. IAM - Identity and Access Management
+3. VPC - Virtual Private Cloud
+
+Now, also covered the topic of
+1. Internet gateway vs NAT gateway
+2. Golden Image vs Configured AMI
+3. Transit gateway vs VPS peering
+4. IAM user vs Group vs Role
+
+
+
