@@ -1,0 +1,10 @@
+Hello Neeraj Bhaiya,
+Today, I learned the topic of AWS Services:
+
+1. S3- Simple Storage Service: It help us to store and retrieve data from anywhere.
+2. Session Manager: AWS Sesssion Manager is a feature of AWS System Manager that allows to connect with   EC2 Instance without using SSH key and opening port 22.
+3. Route 53: Amazon Route 53 Convert a Domain name like- www.google.com into IP address like - 198.168.1.10 so the users can reach your website or application.
+4. Cloud Trail: Amazon Cloud Trail is a logging and auditing service that records the API calls and account activities in an AWS account.
+5. Cloud Watch: Amazon Cloud Watch help us to monitor AWS resources, applications and services in a real time.
+
+  
