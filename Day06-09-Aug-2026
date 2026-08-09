@@ -1,0 +1,19 @@
+Hello Neeraj Bhaiya,
+Today, I learned the topics of :
+
+1. AWS Shield
+2. AWS WAF (Web Application Firewall)
+  .  XSS (Cross Site Scripting) vs SQL Injection
+3. Amazon Guard Duty
+4. Amazon Inspector 
+  . CVE (Common Vulnerability and Exposure) vs CVSS (Common Vulnerability Score System)
+  . Step Fuction vs Event Bridge vs SNS vs SQS
+5. AWS Macie
+  . AWS Config vs Amazon Macie
+6. AWS Key Management Service
+7. AWS System Manager
+8. Amazon RDS 
+  . Relational(SQL) vs Non Relational (Non-SQL)
+9. Amazon Aurora
+10.Amazon Dynamods
+
