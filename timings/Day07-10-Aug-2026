@@ -1,0 +1,26 @@
+Hello Neeraj Bhaiya,
+Today, I learned the AWS Services:
+
+1. Amazon Redshift:
+Amazon Redshift is a cloud based data warehouse service from AWS. It designed to store and analyze large volumes of structured and semi - structured data using SQL.
+
+2. AWS DMS (Database Migration Service):
+It supports the homogeneous and hetrogeneous migration and also support the many database engine including Oracle, My SQL and SQL Server.
+
+3. AWS Watch:
+AWS Batch automatically manages compute resources like -EC2 and Containers and runs job efficiently.
+
+4. AWS Glue: 
+AWS Glue is a service from AWS used for ETL (Extract, Transform, Load) and it helps prepare and move data for analytics.
+
+5. Amazon Elastics File System (EFS)
+6. AWS Elastic Beanstalk
+7. Amazon Cloud Front
+8. AWS Snowball
+9. AWS Codepipeline
+10. AWS CodeBuild
+11. AWS CodeDeploy
+12. AWS X-Ray
+ 
+
+
