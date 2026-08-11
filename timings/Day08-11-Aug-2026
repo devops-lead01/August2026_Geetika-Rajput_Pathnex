@@ -1,0 +1,29 @@
+Hello Neeraj Bhaiya,
+Today, I learned the topic of Docker,
+
+Docker: Docker is the open sourced containerization platform along with everything it needs like- code, libraries and dependencies and runtime into a container.
+It ensures the application runs the same way on any machine.
+
+. Containers
+. Docker Image
+. Docker File
+. Docker Engine: Docker Daemon, Docker CLI, Rest API
+. Docker Registry
+. Docker networking: Bridge Network, Host Network, Overlay Network, None Network
+. Docker Volume
+. Docker Swarm vs Kubernetes
+. Virtual Machine vs Containerrisation 
+. Benefits of Docker
+. Copy vs Run vs CMD vs Entry Point
+ 
+Also learned the Docker Command:
+. docker build
+. docker run
+. docker ps
+. docker stop
+. docker rm
+. docker pull
+. docker push
+
+
+. 
