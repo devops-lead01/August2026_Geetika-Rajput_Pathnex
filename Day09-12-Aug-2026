@@ -1,0 +1,13 @@
+Hello Neeraj Bhaiya,
+
+Today's session, I learned about the Kubernetes.
+
+Covered the what is Kubernetes.
+- Kuberenetes is an open source container orchestration platform used to automate the deployment, scaling and management of containerized applications.
+
+Also covered the Kubernetes Architecture and Components:
+The Kubernetes Architecture consists of two parts:
+1. Control Plane (Master node)
+2. Worker Nodes
+
+ 
