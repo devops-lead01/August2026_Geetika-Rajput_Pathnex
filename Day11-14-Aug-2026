@@ -1,0 +1,28 @@
+Hello Neeraj Bhaiya,
+
+Today, I learned the Kubernetes Key Concepts and Kubernetes commands:
+
+1. Kubernetes Key Concepts : Namespaces, Services, Deployments, ReplicaSets, StatefulSets, DaemonSet, Jobs and CronJobs, Ingress.
+2. Default Namespaces in Kubernetes (Default, Kube - system, Kube - public, Kube - node - lease)
+3. Service types in Kubernetes (Cluster IP, Node Port, Load Balancer, External Name, Headless Service)
+4. Kubernetes Networking
+5. ALB vs NLB
+6. Kubernetes Commands- 
+   kubectl get all - A
+   kubectl get pods
+   kubectl get svc
+   kubectl get ingress
+   kubectl get deploy
+   kubectl get sts
+   kubectl get ds
+   kubectl get cm
+   kubectl get secrets
+   kubectl get pvc
+   kubectl get hpa
+   kubectl get events --sort-by=lastTimestamp
+   kubectl get deployment
+   kubectl get daemonset
+   kgp -A
+   kubectl get nodes
+   kubens external-dns
+
