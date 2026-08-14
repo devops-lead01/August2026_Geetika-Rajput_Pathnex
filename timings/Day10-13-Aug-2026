@@ -1,0 +1,12 @@
+ Hello Neeraj Bhaiya,
+Today, I learned the Amazon Elastic Kubernetes Service and also hands on practical.
+
+Covered the concept of:
+1. Amazon Elastic Kubernetes Service
+2. What is Resource in Kubernetes
+3. Node and Node group
+4. Authentication vs Authorization
+5. HPA (Horizontal Pod Autoscaler) vs VPA (Vertical Pod Autoscaler)
+6. Lifecycle of Pod 
+
+
