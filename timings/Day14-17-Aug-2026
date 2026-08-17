@@ -1,0 +1,17 @@
+Hello Neeraj Bhaiya,
+Today I learned the Affinity and make the cluster and practicing of troubleshooting.
+
+Affinity - Affinity tells to Kubernetes whree to place a pod in cluster. It helps to control where pods are schedule based on rule.
+There are mainly three types of Affinity:
+1. Node Affinity- Node Affinity tells to pod "only run to a certain nodes". It used when you want a pods on specific Hardware or environments.
+2. Pod Affinity- Pod Affinity tell to kubernetes "place a pod close to other pods".
+ ex.- run backend pods near fronted pods. 
+3. Pod Anti Affinity- It tells to kubernetes "don't place this pods near to other pods."
+ ex.- don't put two replicas on a same node.
+
+Learned the topic of:
+Taint
+Toleration
+Label
+Selector
+
