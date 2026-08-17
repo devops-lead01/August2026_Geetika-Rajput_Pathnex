@@ -1,0 +1,13 @@
+Hello Neeraj Bhaiya
+Today, learned the eks cluster and troubleshooting and leanred and revised the kubernetes commands:
+
+kubectl get nodes
+kubens kube - system
+kubectl get nodes
+kubectl get pods
+kgp -A
+kubens external -dns
+kgp -n external -dns
+kubectl get all -A
+ and revised the yesterday class
+
