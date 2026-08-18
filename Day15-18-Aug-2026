@@ -1,0 +1,18 @@
+Hello Neeraj Bhaiya,
+Today, I learned the topic of Helm and Commands of Helm.
+
+Helm: Helm is a tool used to manage Kubernetes applications. It simplifies the process of deploying, configuring and managing complex apllications on Kubernetes Clusters.
+Helm is like a pacakage manager for Kubernetes.
+
+Key components of Helm:
+1. Helm Client
+2. Helm Chart
+3. Helm Repository
+4. Helm Release
+
+Why use Helm:
+1. Simplifies deployment
+2. Version Control
+3. Configuration Management
+4. Reusable and Shareable
+
