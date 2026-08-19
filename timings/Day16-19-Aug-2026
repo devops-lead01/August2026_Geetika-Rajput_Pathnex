@@ -1,0 +1,24 @@
+Hello Neeraj Bhaiya,
+Today, I learned the topic of Argo CD and do the practical:
+
+What is Argo CD?
+Argo CD is the popular open source declarative continous delivery (CD) tool designed specifically for kubernetes.
+It acts as a Gitops controller which means it uses git repository as the absolute 'source of truth' for what your live application infrastructure should look like.
+Instead of you manually runnig kubectl apply commands or writing custom scripts to push updates to a cluster but Argo CD automates the entire process.
+
+Argo CD continously monitors your Git repositories and automatically syncs changes to Kubernetes Cluster.
+
+Core concepts of Argo CD:
+1. Gitops
+2. Application
+3. Sync
+4. Health Status
+5. Sync Status
+
+Also learned the Argo CD Architecture:
+- API Server
+- Repository Server
+- Application Controller
+
+
+
