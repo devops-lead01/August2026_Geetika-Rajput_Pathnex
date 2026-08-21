@@ -1,0 +1,20 @@
+Hello Neeraj Bhaiya,
+Today, I learned about Terraform.
+
+Terraform: Terraform is a open source tool created by Hashi Corp that lets you define, build and manage cloud infrastructure using human readable code.
+Instead of clicking through a web dasboard like- AWS, Azure and Google Cloud to manually spin up servers, databases and networking components, so we write a human friendly configuration file. This practice known as Infrastructure as code (IAC).
+
+Core Concepts of Terraform:
+1. Providers- Bridge between Terraform and cloud platform.
+2. Resources- Means what you create.
+3. Modules- It is a reusable sets of Terraform configuration file.
+4. State- It's the memory of Infrastructure.
+
+Terraform lifecycle commands:
+1. terraform init
+2. terraform fmt
+3. terraform validate
+4. terraform plan
+5. terraform apply
+6. terraform destroy
+
