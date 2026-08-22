@@ -1,0 +1,13 @@
+Hello Neeraj Bhaiya,
+Today, I learned the Terraform some concepts and do the practical:
+
+Today, covered the topics:
+
+1. What is  State lock?
+2. How to unlock the state lock?
+3. What is state drift and how to manage it?
+4. What is provisioners?
+5. What is Terraform Import and Terraform refresh?
+6. What is Terraform Taint?
+
+
