@@ -1,0 +1,17 @@
+Hello Neeraj Bhaiya,
+Today, I learned about CI/CD pipeline and practical of CI/CD related:
+
+CI/CD : CI/CD is an automated assembly line for software development instead of developers manually building, testing and upload code in servers.
+
+CI/CD pipeline automates all tasks so code updates and go live smoothly in munutes and hours.
+
+Continous Integration (CI) : It focuses on Code merging and testing.
+Continous Delivery (CD) : Continous delivery means the application always ready to be deployed.
+
+Also learned about:
+Continous Deployment
+Jenkins CI/CD
+Jenkins Architectural building errors and components of Jenkins
+GitLab CI/CD
+
+
