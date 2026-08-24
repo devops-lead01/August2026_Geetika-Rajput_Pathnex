@@ -1,0 +1,23 @@
+Hello Neeraj Bhaiya,
+Today, I revised the topics of Ansible and CI/CD pipeline and practice of coding.
+
+Ansible : Ansible is an open- source automation tool created by Red Hat that helps IT teams automate repetitve tasks like server configuration, software deployment and infrastructure provisioning.
+
+Core Components of Ansible:
+1. Inventory:
+2. Playbook
+3. Modules
+4. Control Node
+
+CI/CD: CI/CD is an automated assembly line for software development instead of developers manually building, testing and uploading code to server.
+CI/CD piplines automates those task so code updates and go live smoothly in minutes or hours.
+
+- Continous Integration
+- Continous Delivery
+- Continous Deployment
+
+Jenkins CI/CD:
+Jenkins is an self hosted automation server which is used for continous integration and continous delivery.
+Unlike modern cloud-native-tools like GitLab CI/CD and Github action - which come fully hosted and managed for us. Jenkins is an software that you install, host and manage on your own server and clous infrastructure.
+ 
+ 
