@@ -1,0 +1,13 @@
+Hello Neeraj Bhaiya,
+Today, I learned about Ansible and do the practical of Ansible.
+
+Ansible: Ansible is an open - source automation tool created by Red Hat that helps to IT teams automate repetitive taskslike server configuration, software deployment and infrastructure versioning.
+Ansible is a Agentless:
+When people says Ansible is a agentless, which means you don't need to install, update and maintain any special background software on target machine. Target machine are manage, instead it relies on SSH or WinRM to communicate with other machines.
+
+Also learned about:
+1. Core Component of Ansible
+2. Why use Ansible?
+3. How Ansible works?
+4. Workflow of Ansible
+
