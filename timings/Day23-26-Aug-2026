@@ -1,0 +1,12 @@
+Hello Neeraj Bhaiya,
+Today, I learned about ELK Stack.
+
+ELK Stack: ELK is a set of 3 open - source tools - Elastic Search, Logstash and Kibana - that work together to collect, search, analyze and visualize data in real time and together, they form a centrailized log management and analytics platform.
+
+Elastic search: It is a distributed search engine and it stores all your logs.
+Logstash: It is a data processing engine and it sends the data log to Elastic search.
+Kibana: A web interface that plugin into Elastic search it lets you build intrative charts, graphs, maps and dasboard to exlpore your data visually.
+
+Also learned about 
+1. Architecture of ELK Stack : Collect - process - store - visualize
+ August2026_Geetika-Rajput_Pathnex2. Core Components of ELK
