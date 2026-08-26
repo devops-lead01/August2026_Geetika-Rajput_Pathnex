@@ -1,0 +1,15 @@
+ 
+Hello Neeraj Bhaiya,
+Today, I learned the topic of prometheus and Grafana and also do the practical of related topic.
+
+Prometheus: Prometheus is an open source tool designed specifically to collect and process time - series numerical metrics.
+Best for : Infrastructure health, error rates, CPU/Memory usage and real - time numerical alerts.
+
+Grafana: Grafana is an open source visualization engine. It does not collect its own data; instead, it plugs into other backend systems and transforms raw data into dashboards.
+
+Key features of Grafana: It is highly customizable interactive panels and ability to combine metcis logs and trace visulization into a single screen.
+It is best for: Display unified dashboards across multiple tools and providing a visual view for Devops teams.
+
+Leared abouT:
+1. ELK
+2. What do Teams Actually Monitor
