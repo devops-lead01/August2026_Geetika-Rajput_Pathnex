@@ -1,0 +1,10 @@
+Hello Neeraj bhaiya today i have learned about KAFKA so it is a open source distributed event streaming platform designed to handle massive volumes of real time data in a fast and scalabe way.
+ Core compoents are:
+Producers
+Cousumer
+BRoker
+Topic
+Partitions 
+Event
+OffSet
+
