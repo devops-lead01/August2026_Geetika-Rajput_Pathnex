@@ -1,0 +1,16 @@
+Hello Neeraj Bhaiya,
+Today, I learned about SSL/TLS certificates:
+
+SSL/TLS certificate: An SSL/TCL certificate is a digital file installed on a web server that performs two essentials jobs:
+1. Encrypting data
+2. Verifying the website's identity
+When a website uses one, its web address changes form http to https and brower's padloack icon in the address bar.
+
+What's the certificate acctually does?
+1. Encryption: It turns sensitive data (like- personal info, password, credit card number) into scramble text while in transit, preventing hackers on public wifi or networks.
+2. Authentication: It proves the website belongs to who it claims to be atrusted 3rd party called certificate authority inspects, the domain owner before issuing the certificate.
+
+Also learned about:
+1. TLS 1.2 VS TLS 1.3
+2. Self Signed SSL/TLS certificate
+ 
