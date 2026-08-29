@@ -1,0 +1,14 @@
+Hello Neeraj Bhaiya,
+Today, I learned about SRE.
+
+What is SRE?
+SRE stands for Site Reliability Engineer. Site Reliability is a discipline that applies Software Engineer principle to IT operation.
+It help us to make application and infrastructure reliable, scalable and highly available.
+In simple terms:
+Developers build the application and SRE engineer ensure that it runs reliably in production.
+
+Also Learned about:
+Responsiblities of SRE engineer
+SLI & SLO & SLA
+Error Budgets
+
