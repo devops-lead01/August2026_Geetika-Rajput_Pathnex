@@ -1,0 +1,18 @@
+Hello Neeraj Bhaiya,
+Today, I learned about DevSecOps Security Tools.
+
+What is DevSecOps?
+DevSecOps is the practice of integrating security checks and principles into every single phase of the software development lifecycle from design and coding all the way through to deployment and maintenance.
+DevSecOps embeds security directly into the automated Devops pipeline so that rapid delivery does not scarifice security.
+
+DevSecOps Security Tools:
+1. Static Application Security Testing (SAST)
+2. Software Compostion Analysis (SCA)
+3. Container Security
+4. Dynamic Application Security Testing (DAST)
+6. Shift Left Security
+
+Also leanred about 
+CVE vs CVSS
+RTO vs RPO
+
